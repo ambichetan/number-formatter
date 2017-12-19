@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ambichetan/number-formatter.svg?branch=master)](https://travis-ci.org/ambichetan/number-formatter)
+[![Coverage Status](https://coveralls.io/repos/github/ambichetan/number-formatter/badge.svg)](https://coveralls.io/github/ambichetan/number-formatter)
 Number Formatter
 =========
 
