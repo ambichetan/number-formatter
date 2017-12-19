@@ -1,6 +1,6 @@
 {
   "name": "@ambichetan/number-formatter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert number to string with locale separator",
   "main": "index.js",
   "scripts": {
